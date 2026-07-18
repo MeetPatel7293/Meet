@@ -125,4 +125,4 @@ I enjoy building **efficient, error-free validation workflows** that combine bio
 ### 📬 Connect with Me
 
 - **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Location:** Vadodara, Gujarat, India 📍
+- **Location:** Lisbon,Portugal. 📍
