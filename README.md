@@ -154,3 +154,21 @@ ISO 15189 (Medical Laboratories) | Lean Operations | HACCP Compliance | Process 
 * 🔬 Advancing skills in **Laboratory Automation Systems** and digital data validation pipelines.
 * 📊 Building Python scripts to automate statistical Quality Control (QC) reporting for clinical labs.
 * 🌐 Networking with Healthcare Operations and Diagnostic Laboratory Managers in the **Lisbon Metropolitan Area**.
+
+
+
+---
+
+## 📬 Connect With Me
+
+* 💼 **LinkedIn:** [linkedin.com/in/your-profile-url](https://linkedin.com/in/your-profile-url)
+* 💻 **GitHub:** [github.com/MeetPatel7293](https://github.com/MeetPatel7293)
+* 📧 **Email:** meetpatel9590@gmail.com
+
+---
+
+## ⚡ Fun Fact
+
+I bridge the gap between **Microbiology and High-Volume Operations**. Whether it is running precision laboratory diagnostics or managing complex, high-throughput logistics data in Lisbon, I look at every workflow through the lens of zero-error quality control.
+
+⭐ *"I believe great systems are built where high-complexity biological data meets rigorous operational discipline."*
