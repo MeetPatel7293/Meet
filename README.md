@@ -126,3 +126,31 @@ I enjoy building **efficient, error-free validation workflows** that combine bio
 
 - **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 - **Location:** Lisbon,Portugal. 📍
+
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Data:**
+Python | R | SQL | Excel Macros (VBA) | JSON Data Parsing
+
+**Laboratory Information & Automation:**
+LIS (Laboratory Information Systems) | Total Lab Automation (TLA) | Instrument Interfacing | Westgard QC Rules
+
+**Data Analytics & Visualization:**
+Pandas | Matplotlib | Seaborn | Power BI | EDA (Exploratory Data Analysis)
+
+**Tools & Platforms:**
+Git/GitHub | WMS (Warehouse Management Systems) | Barcoding & RFID Asset Tracking | GIS Mapping Tools
+
+**Methodologies & Compliance:**
+ISO 15189 (Medical Laboratories) | Lean Operations | HACCP Compliance | Process Mapping | SOP Documentation
+
+---
+
+## 📈 Current Focus
+
+* 🔬 Advancing skills in **Laboratory Automation Systems** and digital data validation pipelines.
+* 📊 Building Python scripts to automate statistical Quality Control (QC) reporting for clinical labs.
+* 🌐 Networking with Healthcare Operations and Diagnostic Laboratory Managers in the **Lisbon Metropolitan Area**.
