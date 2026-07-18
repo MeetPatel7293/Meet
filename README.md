@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name/Username] 👋 
+# Hi there, I'm MEET PATEL.👋 
 
 ### 🔬 Clinical Laboratory Scientist | BSc Microbiology | Bio-Operations Specialist
 
