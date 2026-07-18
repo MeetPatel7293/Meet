@@ -32,3 +32,23 @@ Experienced Medical Laboratory Scientist bridging the gap between high-complexit
 - **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 - **Location:** Lisbon,Portugal. 📍
 
+
+## 🚀 About Me
+
+I am a professional bridging **Clinical Laboratory Science (Microbiology)** and **Bio-Operations**, with strong experience in:
+
+* Data Verification & Quality Control (QC/QA)
+* Laboratory Information Systems (LIS)
+* High-Throughput Digital Asset Tracking
+* Lean Workflow Optimization & HACCP Compliance
+
+I enjoy building **efficient, error-free validation workflows** that combine biological insights, regulatory compliance, and system-level operational discipline.
+
+---
+
+## 🧠 What I Do
+
+* 📊 **Data Analysis & Tracking** (Python, Excel Data Pipelines)
+* 🔬 **Diagnostic System Calibration** (Total Lab Automation, Westgard Rules)
+* 🗺️ **Spatial Bio-Security** (GIS Mapping, Remote Sensing/UAV Analytics)
+* 📦 **Supply Chain Logistics** (Warehouse Management Systems - WMS)
